@@ -1,4 +1,4 @@
-# IOT Bitbucket Assignments and Notes
+#  Internet of Things (IoT) Assignments and Notes
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.codehafeez.com/)
 
